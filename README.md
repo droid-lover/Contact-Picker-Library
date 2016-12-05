@@ -10,3 +10,8 @@ Content.URI = the path of any specific table , contentprovider use paths called 
 unique table with a unique path means unique URI.
 
 And then with cursor we get the slected position , and on basis of that we just find that index number Username and PhoneNumber.
+In simple words, Cursor is a collection of your query data. which has various method 
+
+  cursor.moveToFirst() is used to point the cursor position from where you want to get data from your cursor. 
+  
+cursor.moveToLast() , cursor.moveToNext() , cursor.moveToPrevious() , cursor.moveToPosition(position)
