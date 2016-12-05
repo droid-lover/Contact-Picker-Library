@@ -15,3 +15,6 @@ In simple words, Cursor is a collection of your query data. which has various me
   cursor.moveToFirst() is used to point the cursor position from where you want to get data from your cursor. 
   
 cursor.moveToLast() , cursor.moveToNext() , cursor.moveToPrevious() , cursor.moveToPosition(position)
+
+
+- made up by SachinRajput    happy Coding :)
